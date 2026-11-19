@@ -1,0 +1,6 @@
+aws_region         = "us-east-1"
+project_name       = "starttech"
+kubernetes_version = "1.35"
+
+# Set after the backend ALB has been created.
+# alb_dns_name = "example-alb.us-east-1.elb.amazonaws.com"
